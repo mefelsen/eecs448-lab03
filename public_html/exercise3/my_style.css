@@ -1,0 +1,34 @@
+h1
+{
+  font-size: 48pt;
+  color: white;
+}
+
+p
+{
+  background-color: blue;
+  color: white;
+  font-family: arial;
+  font-size: 22pt;
+}
+p.myclass
+{
+  background-color: yellow;
+  color: indigo;
+  font-family: arial;
+  font-size: 22pt;
+}
+p:hover
+{
+  background-color: green;
+  color: blue;
+  font-family: arial;
+  font-size: 22pt;
+}
+body
+{
+  background-color: red;
+  background-image: url(https://wallpapercave.com/wp/X6PjOyY.png);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+}
